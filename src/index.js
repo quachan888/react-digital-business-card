@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import "https://kit.fontawesome.com/d5c41c1b7c.js";
+// import "https://kit.fontawesome.com/d5c41c1b7c.js";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 

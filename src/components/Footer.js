@@ -1,3 +1,5 @@
+import "../../node_modules/@fortawesome/fontawesome-free/js/all.js";
+
 export default function Footer() {
     return (
         <div className="footer">
