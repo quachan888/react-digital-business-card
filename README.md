@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Digital Business Card
+
+## Static React page
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
