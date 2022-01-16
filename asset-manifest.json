@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33ac8e3e.css",
+    "main.js": "/static/js/main.d3caed3f.js",
+    "static/js/787.775ab62d.chunk.js": "/static/js/787.775ab62d.chunk.js",
+    "static/media/an-quach.JPG": "/static/media/an-quach.1db484abe8bc7902174b.JPG",
+    "index.html": "/index.html",
+    "main.33ac8e3e.css.map": "/static/css/main.33ac8e3e.css.map",
+    "main.d3caed3f.js.map": "/static/js/main.d3caed3f.js.map",
+    "787.775ab62d.chunk.js.map": "/static/js/787.775ab62d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33ac8e3e.css",
+    "static/js/main.d3caed3f.js"
+  ]
+}
