@@ -2,7 +2,7 @@
 
 ## Trying to build a Static React page after study Scrimba React Section 1
 
-![alt text](https://github.com/quachan888/react-digital-business-card/blob/791dd37df3d8664f03bdb0fe8021562fbd843235/public/screenshot.JPG)
+![alt text](https://github.com/quachan888/react-digital-business-card/blob/main/screenshot.JPG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
